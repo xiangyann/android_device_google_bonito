@@ -11,7 +11,7 @@ $(call inherit-product, device/google/bonito/aosp_bonito.mk)
 -include device/google/bonito/bonito/device-lineage.mk
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_bonito
+PRODUCT_NAME := rr_bonito
 PRODUCT_BRAND := google
 PRODUCT_MODEL := Pixel 3a XL
 TARGET_MANUFACTURER := Google
